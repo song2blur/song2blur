@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/Pq3yBPW1/HXHx-y-SX0AEe9y-Y.jpg"
     
-    ---
+---
     
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tccsifzhu6dkib4mqbp7kvgq&redirect=true">
