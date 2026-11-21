@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <a href="https://t.me/hellgito">textme</a>&nbsp;&nbsp;&nbsp;&nbsp;.彡
+    <a href="https://t.me/hellgito">textme</a>&nbsp;&nbsp;&nbsp;&nbsp;.ᐟ
 <p align="center">
     
 <div align="center">
