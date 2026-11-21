@@ -17,6 +17,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>&nbsp;
 <p align="center">
 
----
+<p
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tccsifzhu6dkib4mqbp7kvgq&cover_image=true&theme=spotify-embed&show_offline=false&mode=dark&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tccsifzhu6dkib4mqbp7kvgq&redirect=true)
