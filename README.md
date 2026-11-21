@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>&nbsp;
 <p align="center">
 
-<p
+---
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tccsifzhu6dkib4mqbp7kvgq&redirect=true">
