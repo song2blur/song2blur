@@ -15,3 +15,7 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tccsifzhu6dkib4mqbp7kvgq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tccsifzhu6dkib4mqbp7kvgq&redirect=true)
+
+<div align="center">
+  <img src="https://i.postimg.cc/bvpzXnFY/Picsart-26-11-21-21-08-56-019.png" width="100" height="80"
+</div>
