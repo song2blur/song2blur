@@ -1,8 +1,8 @@
+<p
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=piranha-ui&label=views&color=B5B0AA&style=for-the-badge" 
 <p align>
 
-<p
 <p
 
 <div align="center">
