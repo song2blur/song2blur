@@ -8,7 +8,7 @@
 
 <div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/m/FV2if7muNjI0">textme</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>&nbsp;
 <p align="center">
 
 ---
